@@ -1,5 +1,5 @@
 /* 
-Made by Github user: Anthon98 
+Made by Github user: splinestein
 MIT License. 
 */
 
